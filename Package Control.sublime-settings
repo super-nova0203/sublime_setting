@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"AndyPHP",
+		"Backbone.js",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSS Snippets",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"GotoDocumentation",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"IMESupport",
+		"Insert Callback",
+		"Japanize",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Markdown Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PHP Zend Framework 2 Helper",
+		"PhpDoc",
+		"PHPUnit Snippets",
+		"SFTP",
+		"Smarty",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-php",
+		"Tag",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

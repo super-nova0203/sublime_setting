@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+shift+r"], "command": "reindent" , "args": { "single_line": false } },
+	{ "keys": ["ctrl+k", "ctrl+u"], "command": "upper_case" },
+	{ "keys": ["ctrl+k", "ctrl+l"], "command": "lower_case" }
+]
